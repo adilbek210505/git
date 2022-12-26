@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a09f17a-00c9-4f86-8b83-3c33151e89bc" name="Changes" comment="add section titile page" />
+    <list default="true" id="1a09f17a-00c9-4f86-8b83-3c33151e89bc" name="Changes" comment="add section titile page">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -57,6 +60,7 @@
       <workItem from="1672046560195" duration="1984000" />
       <workItem from="1672051625272" duration="557000" />
       <workItem from="1672052210899" duration="515000" />
+      <workItem from="1672069346864" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="add footer">
       <created>1672046490994</created>
